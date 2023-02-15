@@ -105,6 +105,9 @@
   .portfolio-content-cardContainer {
     grid-template-columns: repeat(1, 1fr);
   }
+ .portfolio-content-filterSection ul li{
+    padding : 10px; 
+  }
 }
 
 @media only screen and (min-width: 480px) and (max-width: 768px) {
